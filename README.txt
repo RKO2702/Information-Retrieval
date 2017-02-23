@@ -1,4 +1,6 @@
 First decompress the files.
+Combine corpusA and corpusB into a single dat file.
+Then create a blank Inverted-Index.dat file in your system.
 
 To run the create index program issue the command:
 python buildIndex.py stopWords.dat testCollection.dat Inverted_Index.dat Title_index.dat
